@@ -8,8 +8,7 @@ random_device Rand;
 
 struct Q {
 	int x;
-	char y[];
-	
+	char y[50];
 };
 //система контроля верcий
 //cvs svn git
