@@ -1,0 +1,7 @@
+Table 20 1215
+chair 12 234
+hoover 21 1600
+sofa 14 4550
+stool 45 170
+armchair 6 793
+freezer 16 2600
